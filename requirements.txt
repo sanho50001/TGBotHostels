@@ -1,0 +1,5 @@
+pip
+pyTelegramBotAPI==4.8.0
+python-Telegram-bot-calendar
+requests==2.28.1
+python-dotenv
